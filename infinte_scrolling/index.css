@@ -1,0 +1,11 @@
+.cards-container {
+    margin: auto;
+    height: 100vh;
+}
+
+.card {
+    background: orange;
+    width: 50%;
+    margin: 10px;
+    height: 18%;
+}
